@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.cc1e285f.chunk.css",
-    "main.js": "./static/js/main.272ad537.chunk.js",
-    "main.js.map": "./static/js/main.272ad537.chunk.js.map",
+    "main.css": "./static/css/main.d466e09c.chunk.css",
+    "main.js": "./static/js/main.777ca73c.chunk.js",
+    "main.js.map": "./static/js/main.777ca73c.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.8e742624.js",
     "runtime-main.js.map": "./static/js/runtime-main.8e742624.js.map",
     "static/css/2.38c2ae39.chunk.css": "./static/css/2.38c2ae39.chunk.css",
@@ -17,10 +17,10 @@
     "static/js/6.c8cc4bf0.chunk.js": "./static/js/6.c8cc4bf0.chunk.js",
     "static/js/6.c8cc4bf0.chunk.js.map": "./static/js/6.c8cc4bf0.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.a809789dd0ae65cdd76363827c0397ec.js": "./precache-manifest.a809789dd0ae65cdd76363827c0397ec.js",
+    "precache-manifest.e877f69f03431f7d705608e66d9b0b76.js": "./precache-manifest.e877f69f03431f7d705608e66d9b0b76.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.38c2ae39.chunk.css.map": "./static/css/2.38c2ae39.chunk.css.map",
-    "static/css/main.cc1e285f.chunk.css.map": "./static/css/main.cc1e285f.chunk.css.map",
+    "static/css/main.d466e09c.chunk.css.map": "./static/css/main.d466e09c.chunk.css.map",
     "static/js/2.2b920075.chunk.js.LICENSE.txt": "./static/js/2.2b920075.chunk.js.LICENSE.txt",
     "static/js/3.9ae69dad.chunk.js.LICENSE.txt": "./static/js/3.9ae69dad.chunk.js.LICENSE.txt",
     "static/js/4.67dd9d13.chunk.js.LICENSE.txt": "./static/js/4.67dd9d13.chunk.js.LICENSE.txt",
@@ -45,6 +45,7 @@
     "static/media/dropdown-blue.svg": "./static/media/dropdown-blue.b20914ec.svg",
     "static/media/dropdown.svg": "./static/media/dropdown.7d32d2fa.svg",
     "static/media/dropup-blue.svg": "./static/media/dropup-blue.b96d70e1.svg",
+    "static/media/output.css": "./static/media/font.59efaeb2.ttf",
     "static/media/gnosis_safe.png": "./static/media/gnosis_safe.18b63002.png",
     "static/media/link.svg": "./static/media/link.50c67f3c.svg",
     "static/media/logo_circle.png": "./static/media/logo_circle.0dc6c052.png",
@@ -70,7 +71,7 @@
     "static/js/runtime-main.8e742624.js",
     "static/css/2.38c2ae39.chunk.css",
     "static/js/2.2b920075.chunk.js",
-    "static/css/main.cc1e285f.chunk.css",
-    "static/js/main.272ad537.chunk.js"
+    "static/css/main.d466e09c.chunk.css",
+    "static/js/main.777ca73c.chunk.js"
   ]
 }
